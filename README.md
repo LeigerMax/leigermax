@@ -5,7 +5,7 @@
   
 - 🔭 I’m currently working on **Saint Vincent De Paul Tamines - Website**  , **Portfolio**
   
-- 🌱 I’m currently learning **IA**  , **Haskell**, 
+- 🌱 I’m currently learning **IA**  , **Haskell**, **prolog**
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
