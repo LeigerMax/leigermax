@@ -3,9 +3,9 @@
 <h3 align="center">I am a student Software Engineer at UNamur👨‍💻</h3>  
   
   
-- 🔭 I’m currently working on **Saint Vincent De Paul Tamines - Website**  , **Portfolio**
+- 🔭 I’m currently working on **Aïkinect**  , **Go4Success for UCLouvain **
   
-- 🌱 I’m currently learning **IA**  , **Haskell**, **prolog**
+- 🌱 I’m currently learning 
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
