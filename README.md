@@ -3,7 +3,7 @@
 <h3 align="center">I am a student Software Engineer at UNamur👨‍💻</h3>  
   
   
-- 🔭 I’m currently working on **Aïkinect**  , **Go4Success for UCLouvain **
+- 🔭 I’m currently working on **Aïkinect**  , **Go4Success for UCLouvain**
   
 - 🌱 I’m currently learning 
   
