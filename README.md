@@ -4,7 +4,7 @@
   
   
 # 💫 About Me:
-🔭 I’m currently working on Aïkinect , Go4Success for UCLouvain, MedCity<br><br>🌱 I’m currently learning :  C#,  React
+🔭 I’m currently working on Aïkinect , Go4Success for UCLouvain, MedCity<br><br>🌱 I’m currently learning :  C#,  React, TypeScript
 
 
 ## 🌐 Socials:
