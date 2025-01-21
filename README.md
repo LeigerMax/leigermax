@@ -4,7 +4,7 @@
   
   
 # 💫 About Me:
-🔭 I’m currently working on <br><br>🌱 I’m currently learning :  various algorithms with java, cryptography and security
+🔭 I’m currently working on <br>DiscoverPicture (Slide-Project) <br>🌱 I’m currently learning :  
 
 
 ## 🌐 Socials:
